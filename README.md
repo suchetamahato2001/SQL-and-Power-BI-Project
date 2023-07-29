@@ -1,2 +1,2 @@
-# SQL-and-Power-BI-Project
+During the execution of the project, I imported the dataset, created a database, and wrote queries in Microsoft SQL Server. I connected Microsoft Power BI to Microsoft SQL Server and undertook the tasks of data importing, data cleaning, data transformation, and dashboard building in Microsoft Power BI. Additionally, I evaluated the busiest times, sales performance, best sellers, and worst sellers to find answers to the relevant business problems associated with the dataset.
  
